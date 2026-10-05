@@ -11,7 +11,7 @@ El seminari es realitza dijous de 13:00 a 14:00 en l'aula 0.5.
 Conforme anem realitzant les diferents sessions els documents es modificaran puntualment per a afegir comentaris o exemples.
 
 - [Apunts complets](docs/ApuntsComplets.pdf)
-- [Bibliografia]
+- [Bibliografia](docs/Bibliografia.pdf)
 
 Apunts per capítols
 - [Capítol 1](docs/Capitol1.pdf)
