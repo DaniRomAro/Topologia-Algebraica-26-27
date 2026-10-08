@@ -1,6 +1,6 @@
 # Seminari de Topologia Algebraica
 
-Benvinguts, ací trobareu la informació del seminari, els apunts i altres documents, així com l'enllaç al qüestionari per rebre qualsevol actualització.
+Benvinguts, ací trobareu la informació del seminari, els apunts i altres documents, així com l'enllaç al qüestionari per rebre qualsevol actualització i el diari dels continguts que anem vegent en cada classe.
 
 ## Horari
 El seminari es realitza dijous de 13:00 a 14:00 en l'aula 0.5.
@@ -24,3 +24,7 @@ Apunts per capítols
 
 ---
 
+## Diari dels continguts de cada classe
+Per si necessiteu saber que hem vist cada setmana perquè no hageu pogut vindre ací teniu els continguts que anem vegent conforme als apunts:
+
+- 08/10: "Per què, com i per a què veure nous invariants algebraics?" (Capítol 1)
