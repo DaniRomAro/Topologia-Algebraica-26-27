@@ -15,6 +15,7 @@ Conforme anem realitzant les diferents sessions els documents es modificaran pun
 
 Apunts per capítols
 - [Capítol 1](docs/Capitol1.pdf)
+- [Capítol 2](docs(Capitol2.pdf)
 
 
 ---
