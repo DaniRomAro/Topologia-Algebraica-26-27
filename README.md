@@ -28,4 +28,5 @@ Apunts per capítols
 ## Diari dels continguts de cada classe
 Per si necessiteu saber que hem vist cada setmana perquè no hageu pogut vindre ací teniu els continguts que anem vegent conforme als apunts:
 
-- 08/10: "Per què, com i per a què veure nous invariants algebraics?" (Capítol 1)
+- 08/10: "Per què, com i per a què veure nous invariants algebraics?" (Capítol 1).
+- 15/10: Hem acabat el capítol 1.
