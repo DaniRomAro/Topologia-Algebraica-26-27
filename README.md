@@ -34,3 +34,4 @@ Per si necessiteu saber que hem vist cada setmana perquè no hageu pogut vindre 
 - 22/10: Començat el capítol 2, hem arribat fins la definció de grup d'homologia a la secció "El complex síngular i els grups d’homologia".
 - 29/10: Vist des de la definició de grup d'homologia fins el teorema d'axioma de dimensió a la secció "Axiomes de dimensió i additivitat. Suport compacte".
 - 05/11: Hem demostrat els teoremes 2.12 i 1.13 (Axioma d'additivitat i càlcul del grup d'homologia d'ordre 0 d'un espai X).
+- 12/11: Hem demostrat el teoremes de suport compacte acabant així la secció "Axiomes de dimensió i additivitat. Suport compacte" i hem vist tota la secció "Axioma d'homotopia" calculant els grups d'homologia dels convexos i donant les intuïcions darrere la prova de l'axioma d'homotopia.
