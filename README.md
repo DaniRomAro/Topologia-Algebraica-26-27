@@ -8,7 +8,7 @@ El seminari es realitza dijous de 13:00 a 14:00 en l'aula 0.5.
 ---
 
 ## Documents del curs
-Conforme anem realitzant les diferents sessions els documents es modificaran puntualment per a afegir comentaris o exemples.
+Conforme anem realitzant les diferents sessions els documents es modificaran puntualment per a afegir comentaris o exemples (o corregir errors sobre tot).
 
 - [Apunts complets](docs/ApuntsComplets.pdf)
 - [Bibliografia](docs/Bibliografia.pdf)
@@ -36,3 +36,4 @@ Per si necessiteu saber que hem vist cada setmana perquè no hageu pogut vindre 
 - 05/11: Hem demostrat els teoremes 2.12 i 1.13 (Axioma d'additivitat i càlcul del grup d'homologia d'ordre 0 d'un espai X).
 - 12/11: Hem demostrat el teoremes de suport compacte acabant així la secció "Axiomes de dimensió i additivitat. Suport compacte" i hem vist tota la secció "Axioma d'homotopia" calculant els grups d'homologia dels convexos i donant les intuïcions darrere la prova de l'axioma d'homotopia.
 - 19/11: Hem acabat el capítol 2 vegent el teorema de Hurewicz.
+- 26/11: Vista la primera secció del capítol 3 i hem enunciat el lema de l'homomorfisme connectiu de la següent secció.
